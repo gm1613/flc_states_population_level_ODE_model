@@ -1,5 +1,5 @@
 # flc_states_population_level_ODE_model
-Matlab code for simulating the ODE model for FLC transcription regulation and histone modification dynamics developed in 
+Matlab code for simulating the ODE model for FLC transcription regulation and histone modification dynamics, developed in 
 Nielsen et al., PNAS, 2023, Antisense transcription and PRC2 repression function in parallel during vernalization
 
 Three Matlab files are provided:
